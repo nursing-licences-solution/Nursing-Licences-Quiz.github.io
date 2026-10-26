@@ -1,0 +1,16 @@
+{
+  "title": "Mathematics Mid-Term Exam",
+  "description": "Please select the best answer for each question.",
+  "questions": [
+    {
+      "id": 1,
+      "prompt": "What is the square root of 144?",
+      "options": ["10", "11", "12", "14"]
+    },
+    {
+      "id": 2,
+      "prompt": "Solve for x: 2x + 6 = 14",
+      "options": ["2", "4", "6", "8"]
+    }
+  ]
+}
